@@ -1,0 +1,31 @@
+History:
+    -> Designed by Robert Greisemer, Rob Pike and Ken Thompson at Google in 2007
+    -> Motivated by shared dislike of C++ (Verify this)
+    -> Public announcement in November 2009 and released in March 2012
+
+
+REASONS TO BUILD GO:
+    -> Emergence of Scalable and Distributed Computing
+    -> Networking Clusters
+    -> Dynamic Computing
+    -> Existing languages at the time did not take advantage of the infrastructure or were unable to due to design limitations
+
+FEATURES:
+    -> Server-side language
+    -> Designed to run on multiple cores
+    -> Supports Concurrency
+    -> Concurrency is easy
+    -> Combines Readability of Python and Efficiency and Safety of C++
+    -> Fast Build, Start-up and Run time
+    -> Compiled Language -> Compiles directly into Machine code
+    -> 
+
+USE CASES:
+    -> Writing Performant Applications
+    -> Run on Scaled, Distributed Systems
+
+PRODUCTS BUILT USING GO:
+    -> Docker
+    -> Kubernetes
+    -> CockroachDB
+    -> Hashicorp Vault
